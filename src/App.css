@@ -1,0 +1,38 @@
+.App {
+  display:flex;
+  justify-content: space-around;
+  height: 100vh;
+  align-items: center;
+  background-color: rgb(205, 221, 221);
+  border: 10px;
+  border-width: medium;
+  border-color: black;
+}
+
+.a{
+
+align-items: center;
+background-color: rgb(101, 175, 240);
+text-align: center;
+}
+
+label{
+  font-size: large;
+  color: black;
+}
+
+.box{
+  width: 30vw;
+  height:20vw;
+  background-color: rgb(27, 105, 129);
+  color: white;
+  padding: 20vh 0px;
+}
+
+label.l1{
+  font-size: large;
+}
+
+.box{
+  box-shadow: 67px 70px 10 px;
+}
